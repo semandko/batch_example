@@ -1,0 +1,22 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 62DD-B5FE
+
+ Directory of c:\my_rest\batch_scripts
+
+06/02/2021  12:42 PM    <DIR>          .
+06/02/2021  12:42 PM    <DIR>          ..
+06/02/2021  11:47 AM         1,372,993 bash_cmd_list.pdf
+06/02/2021  11:40 AM               254 batch_ex_3_function.bat
+06/02/2021  11:44 AM               316 batch_ex_4_function.bat
+06/02/2021  12:08 PM               224 batch_ex_5_listing.bat
+06/02/2021  12:16 PM               198 batch_ex_6_var.bat
+06/02/2021  12:34 PM               327 batch_ex_7_expression.bat
+06/02/2021  12:41 PM             1,101 batch_ex_8.bat
+06/02/2021  11:29 AM               815 batch_fibonachi.bat
+06/02/2021  12:30 PM               212 bath_ex_1.bat
+06/02/2021  11:26 AM                55 bath_ex_2.bat
+06/02/2021  11:09 AM               153 del_all_in_dir.bat
+06/02/2021  11:36 AM        10,348,421 dostips_function_list.pdf
+06/02/2021  12:42 PM                 0 lists.txt
+              13 File(s)     11,725,069 bytes
+               2 Dir(s)  231,063,515,136 bytes free
